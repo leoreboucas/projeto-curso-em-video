@@ -1,2 +1,2 @@
-# projeto-curso-em-video
- Curso de Git e GitHub do Gustavo Guanabara.
+# Treinamento de Git e GitHub do Curso em vídeo
+ Esse repositório serve de aprendizado para entender como versionamento em Git e como dar "commit" do repositório no GitHub.
